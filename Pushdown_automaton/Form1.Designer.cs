@@ -114,7 +114,7 @@
             // 
             // showSteps_button
             // 
-            this.showSteps_button.Location = new System.Drawing.Point(330, 21);
+            this.showSteps_button.Location = new System.Drawing.Point(243, 51);
             this.showSteps_button.Name = "showSteps_button";
             this.showSteps_button.Size = new System.Drawing.Size(75, 23);
             this.showSteps_button.TabIndex = 7;
